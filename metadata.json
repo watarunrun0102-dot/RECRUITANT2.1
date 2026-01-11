@@ -1,0 +1,5 @@
+{
+  "name": "RECRUITANT 2",
+  "description": "A modern, cloud-synchronized job hunting management application utilizing Firebase for real-time data and React for a responsive user interface.",
+  "requestFramePermissions": []
+}
